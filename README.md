@@ -1,0 +1,1 @@
+Solution of task 17 in Skillfactory PHP-course.
